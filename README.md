@@ -132,3 +132,22 @@ germany-energy-analytics-dashboard/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+
+```
+
+---
+
+## 🖼️ Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](assets/dashboard-overview.png)
+
+### Forecasting and Anomaly Detection
+![Forecasting and Anomaly Detection](assets/forecast-anomaly.png)
+
+### Renewable Energy Analysis
+![Renewable Energy Analysis](assets/renewable-energy.png)
+
+### SQL Insights
+![SQL Insights](assets/sql-insights.png)
