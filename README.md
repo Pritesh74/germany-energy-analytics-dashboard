@@ -1,5 +1,6 @@
 # ⚡ Germany Energy Consumption Analysis (2018–2024)
-
+## Live Demo
+[Open the Streamlit App](https://germany-energy-analytics-dashboard-josb9hho5tdysusiidj3n9.streamlit.app/)
 > **End-to-end data analytics project** — SQL · Python · Streamlit · Power BI
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
